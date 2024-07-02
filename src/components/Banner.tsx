@@ -1,5 +1,6 @@
 import { Typewriter } from "react-simple-typewriter";
 import styled from "styled-components";
+import SnowfallLogo from "../../assets/icons/logo.png";
 
 const sentences = [
     "A delightful game",
@@ -39,6 +40,11 @@ export const Banner = () => {
             <Jumbotron className="jumbotron jumbotron-fluid">
                 <Content>
                     <h1>
+                        <img
+                            alt="Snowfall logo"
+                            src={SnowfallLogo}
+                            width="128"
+                        />
                         <span className="main-color">Snowfall</span>
                     </h1>
                     <h6>

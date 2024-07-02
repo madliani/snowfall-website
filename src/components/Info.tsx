@@ -12,7 +12,6 @@ const Container = styled.div`
 
 const Jumbotron = styled.div`
     position: absolute;
-    top: 20vh;
 
     width: 100%;
     margin: 0;

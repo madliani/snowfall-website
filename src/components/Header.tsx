@@ -86,6 +86,11 @@ export const Header = () => {
                                     About
                                 </Link>
                             </li>
+                            <li>
+                                <Link onClick={toggleNav} to="/privacy-policy">
+                                    Privacy Policy
+                                </Link>
+                            </li>
                         </Nav>
                     </div>
                 </div>

@@ -23,7 +23,7 @@ export const Layout = ({ children }: Properties) => {
         <>
             <Particles init={init} options={options} />
             <Header />
-            <main>{children}</main>
+            <main className="position-relative">{children}</main>
         </>
     );
 };

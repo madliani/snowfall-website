@@ -83,7 +83,7 @@ export const Header = () => {
                             </li>
                             <li>
                                 <Link onClick={toggleNav} to="/about">
-                                    About
+                                    About us
                                 </Link>
                             </li>
                             <li>

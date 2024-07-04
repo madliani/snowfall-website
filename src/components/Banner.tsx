@@ -3,9 +3,7 @@ import styled from "styled-components";
 import SnowfallLogo from "../../assets/icons/logo.png";
 
 const sentences = [
-    "A delightful game",
-    "where you can experience the magic of snowflakes",
-    "with a simple click."
+    "A delightful game where you can experience the magic of snowflakes with a simple click."
 ];
 
 const Container = styled.div`

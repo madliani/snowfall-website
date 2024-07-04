@@ -43,7 +43,7 @@ export const Banner = () => {
                         <img
                             alt="Snowfall logo"
                             src={SnowfallLogo}
-                            width="128"
+                            width="192"
                         />
                         <span className="main-color">Snowfall</span>
                     </h1>

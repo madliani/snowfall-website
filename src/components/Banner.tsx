@@ -1,6 +1,7 @@
 import { Typewriter } from "react-simple-typewriter";
 import styled from "styled-components";
 import SnowfallLogo from "../../assets/icons/logo.png";
+import { Socials } from "./Socials";
 
 const sentences = [
     "A delightful game where you can experience the magic of snowflakes with a simple click."
@@ -53,6 +54,7 @@ export const Banner = () => {
                             words={sentences}
                         />
                     </h6>
+                    <Socials />
                 </Content>
             </Jumbotron>
         </Container>

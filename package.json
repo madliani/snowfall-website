@@ -90,8 +90,7 @@
         "snowfall",
         "styled-components",
         "typescript",
-        "vite",
-        "yarn"
+        "vite"
     ],
     "license": "AGPL-3.0-or-later",
     "name": "snowfall",
